@@ -27,7 +27,7 @@ export default function AboutPreview() {
                     </motion.div>
 
                     <motion.div className="image-panel" variants={fadeUp}>
-                        <img src="/images/about-person.jpg" alt="About" />
+                        <img src="/images/about.jpg" alt="About" />
                     </motion.div>
                 </motion.div>
             </div>
